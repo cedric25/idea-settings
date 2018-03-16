@@ -27,13 +27,13 @@
       <mask>*.scss</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
