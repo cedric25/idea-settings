@@ -24,7 +24,9 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="ChangesView.Diff" />
-  <action id="CloseContent" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
